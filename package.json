@@ -6,5 +6,5 @@
   "repository": "git@github.com:tenka491/resetthecss.git",
   "author": "Shane Connor <shanetconnor@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": false
 }
