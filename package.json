@@ -1,0 +1,10 @@
+{
+  "name": "resetthecss",
+  "version": "1.0.0",
+  "description": "css reset package",
+  "main": "index.js",
+  "repository": "git@github.com:tenka491/resetthecss.git",
+  "author": "Shane Connor <shanetconnor@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
